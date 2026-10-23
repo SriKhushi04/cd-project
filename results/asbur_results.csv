@@ -1,0 +1,101 @@
+query_idx,query_user,community,query_text,num_relevant_users,inferred_community,precision_at_5,precision_at_10,recall_at_5,recall_at_10,ndcg_at_10,mrr
+0,australiancatholic,Christianity,This little 8 minute video by [*Fr Mike Scmitz*](https://www.youtube.com/watch?v,100,,0.0,0.0,0.0,0.0,0.0,0.0
+1,Orphic_Thrench,news,The thing I found weirdest was the guy seemed like a totally normal office drone,332,malefashionadvice,0.0,0.1,0.0,0.0030120481927710845,0.06625422345438903,0.1111111111111111
+2,maya0nothere,MensRights,&gt; male rapists and serial killers Bet most where raised by single moms also. ,120,MensRights,0.0,0.2,0.0,0.016666666666666666,0.14279514403613733,0.14285714285714285
+3,SafeReturnDoubtful,gifs,"If they try to make you stop just plug them, Doc. I'm 90% sure that's doctrine.",331,AdviceAnimals,0.0,0.0,0.0,0.0,0.0,0.0
+4,babbleon5,Fitness,"this all breaks down here at the ""1% loss."" Is it unhealthy to lose more than th",95,Fitness,0.2,0.3,0.010526315789473684,0.031578947368421054,0.25469837558210445,0.3333333333333333
+5,curdledS8,tifu,Aren’t most rules like that,200,videos,0.0,0.0,0.0,0.0,0.0,0.0
+6,KeavesSharpi,technology,"Nah. Blood donors get paid. Just, not much.",284,,0.0,0.0,0.0,0.0,0.0,0.0
+7,Kaladindin,MovieDetails,"So less than a year to get there, yeah I would say Frodo held it together well.",223,,0.0,0.0,0.0,0.0,0.0,0.0
+8,fruchle,photography,Thanks very much! :),122,pokemontrades,0.0,0.0,0.0,0.0,0.0,0.0
+9,ben1234321,cars,"yes, i’ve practiced over steer",149,motorcycles,0.0,0.0,0.0,0.0,0.0,0.0
+10,itsmeurbrothr,techsupport,cleaned it out as in dust? its most likely worse than that assuming its not incr,39,techsupport,0.2,0.1,0.02564102564102564,0.02564102564102564,0.09478836436955078,0.25
+11,Turingading,askscience,It's more the movement of air over your skin making it easier for the sweat to e,237,,0.0,0.0,0.0,0.0,0.0,0.0
+12,robbviously,MovieDetails,"Jumping on the nitpick bandwagon, Gordon also says ""Five dead. Two of them cops.",223,news,0.0,0.0,0.0,0.0,0.0,0.0
+13,Alcarinque88,MovieDetails,"And blast my ears with ""IT HAS COME TO MY ATTENTION...!"" and ""THE WORLD HAS CHAN",223,aww,0.0,0.0,0.0,0.0,0.0,0.0
+14,foxwheat,DebateReligion,&gt; ...and their interference with humans (the 2 links you gave) are not consis,102,DebateReligion,0.6,0.7,0.029411764705882353,0.06862745098039216,0.611755947233009,0.5
+15,boomaya,technology,T_D is cancer. the amount of hate they show for Muslims is just amazing.,284,atheism,0.0,0.0,0.0,0.0,0.0,0.0
+16,MattKnightVO,AskMen,This gave me nausea,149,WTF,0.0,0.0,0.0,0.0,0.0,0.0
+17,Ravanas,IAmA,No really. Take a step back and figure out what you're arguing for. I really wan,159,Libertarian,0.0,0.0,0.0,0.0,0.0,0.0
+18,lamNoOne,science,"Yeah, and I've baked a cake several times.",367,,0.0,0.0,0.0,0.0,0.0,0.0
+19,VeteranNomad,anime,**Spirit Circle** Same author who did Lucifer and Biscuit Hammer and Sengoku You,137,anime,0.6,0.4,0.021897810218978103,0.029197080291970802,0.4220949603708207,0.5
+20,CaesarVariable,cringe,[In all its cringe glory](https://www.youtube.com/watch?v=-kpxA-TOLmA),292,cringe,0.0,0.1,0.0,0.003424657534246575,0.06943122193677727,0.125
+21,Upussycat,fantasyfootball,It’s really gonna hurt to watch Ajayi put up 20 again tomorrow with sproles out ,103,fantasyfootball,0.4,0.3,0.019417475728155338,0.02912621359223301,0.3963918729015093,1.0
+22,on_the_nightshift,CFB,"I'm not. We don't play a hard pass rush typically, and they have a guy at qb who",126,fantasyfootball,0.0,0.0,0.0,0.0,0.0,0.0
+23,erinkp36,politics,"I don’t know, every time I listened I just felt like he either talked in a circl",192,hiphopheads,0.0,0.0,0.0,0.0,0.0,0.0
+24,tobehonestilikepie,Fitness,I think realizing that I'm new to the gym and want to find my own niche right no,95,Fitness,0.2,0.3,0.010526315789473684,0.031578947368421054,0.2426178552850034,0.25
+25,JohnnyOnslaught,science,"Alright, so first off; a couple of decades isn't much when we're talking about t",366,,0.0,0.0,0.0,0.0,0.0,0.0
+26,FloppyDickFingers,MMA,&gt; drunken tyrant King I was thinking mad king game of thrones haha.,144,asoiaf,0.0,0.0,0.0,0.0,0.0,0.0
+27,ENTPositive,gaming,The big guys should be part of anyone's portfolio for long term growth. Other no,216,,0.0,0.0,0.0,0.0,0.0,0.0
+28,Nurf03,Drugs,Having an attractive face doesn't matter when your 5'4 :(,74,AskWomen,0.0,0.0,0.0,0.0,0.0,0.0
+29,Gauthzu,soccer,Verratti will make that difference. He's just that good AND he'll replace a CB t,173,fantasyfootball,0.0,0.0,0.0,0.0,0.0,0.0
+30,TheGrotke,gifs,Maximum Effort!!!,332,,0.2,0.2,0.0030120481927710845,0.006024096385542169,0.16421958630632802,0.25
+31,Dzugavili,DebateReligion,&gt; So the prophet was a sane individual for 40 years then all of a sudden went,101,,0.0,0.0,0.0,0.0,0.0,0.0
+32,BTCkoning,Bitcoin,"I'm joking, but a 9 year old laptop? Damm son you can overdo it though :p",79,Android,0.0,0.0,0.0,0.0,0.0,0.0
+33,HpFictionFan,Christianity,you're supposed to be judgmental on r/amiugly,101,AmItheAsshole,0.0,0.0,0.0,0.0,0.0,0.0
+34,just-a-traveler,funny,"just a huge, sweet teddy bear.",347,aww,0.0,0.0,0.0,0.0,0.0,0.0
+35,MonrealEstate,soccer,Mike Tyson as well,173,MMA,0.0,0.0,0.0,0.0,0.0,0.0
+36,Dlrlcktd,gifs,"See if you're out of sight at the bar, no one thinks to give you work",332,LifeProTips,0.0,0.0,0.0,0.0,0.0,0.0
+37,PitchforkManufactory,Android,IKR? What the fuck is even the voltages of these things. mAh means fucking nothi,226,,0.2,0.1,0.004424778761061947,0.004424778761061947,0.13886244387355454,0.5
+38,MortonLoothorKodos_3,AmItheAsshole,Your mom is older than the bible,66,Christianity,0.0,0.0,0.0,0.0,0.0,0.0
+39,rolfraikou,worldnews,That is a slippery slope I hadn't considered. They are essentially loot boxes. E,369,pokemon,0.0,0.0,0.0,0.0,0.0,0.0
+40,InThisHouse19,Random_Acts_Of_Amazon,😂😂😂 how old are yours? I just have one 8 year old boy,41,Random_Acts_Of_Amazon,0.8,0.8,0.0975609756097561,0.1951219512195122,0.7877736340270853,1.0
+41,Kalthramis,worldnews,It happened twice and will happen again this Halloween,368,WTF,0.0,0.1,0.0,0.002717391304347826,0.07839826897867533,0.16666666666666666
+42,Azreal_75,cringe,$10 Trillion though? That’s an awful lot of money I head this analogy the other ,292,Economics,0.0,0.0,0.0,0.0,0.0,0.0
+43,thisishowistroll,books,It didn't do a thing for me.,206,tifu,0.2,0.1,0.0048543689320388345,0.0048543689320388345,0.09478836436955078,0.25
+44,quistodes,rupaulsdragrace,"He didn't write this though, I saw it as a tweet a couple of days ago",98,hiphopheads,0.0,0.0,0.0,0.0,0.0,0.0
+45,sir_joe_cool,Marvel,"&gt;you can downvote me, but you can't ban me. https://i.imgur.com/ohDKCIO.jpg",194,,0.0,0.0,0.0,0.0,0.0,0.0
+46,Alpha-Vicarious,NoFap,Sure why not!...,47,gonewild,0.0,0.0,0.0,0.0,0.0,0.0
+47,kai333,OkCupid,"Did your gf look at your baseline attributes and say ""okay he checks enough boxe",63,relationships,0.0,0.0,0.0,0.0,0.0,0.0
+48,smooth_jazzhands,AskMen,This is an interesting point. Never thought of it this way.,149,AdviceAnimals,0.0,0.0,0.0,0.0,0.0,0.0
+49,ZooAnimalsOnWheels_,todayilearned,Literally also means figuratively for some reason according to the dictionary.,600,,0.0,0.0,0.0,0.0,0.0,0.0
+50,Star_pass,relationship_advice,"Another fundamental difference is that in OPs story, she wasn't even sure anythi",73,ShingekiNoKyojin,0.0,0.0,0.0,0.0,0.0,0.0
+51,jim653,explainlikeimfive,"You got me. But, for those who want to see an actual comparison between the real",407,,0.0,0.0,0.0,0.0,0.0,0.0
+52,kazuwacky,unitedkingdom,"I think some women really want to believe that we're the ""better"" gender, ""sugar",186,MensRights,0.0,0.0,0.0,0.0,0.0,0.0
+53,Exoclyps,LifeProTips,"I wonder if anyone feel the same with me. I mean I can get crazy, especially whe",195,AskWomen,0.0,0.0,0.0,0.0,0.0,0.0
+54,lapapinton,Christianity,"Ah, but while there are harsh critiques to be made, remember the saying ""Das zer",101,books,0.0,0.0,0.0,0.0,0.0,0.0
+55,therealAce,nba,Shout-out all Grandma's and grandpa's.,115,,0.0,0.0,0.0,0.0,0.0,0.0
+56,noakai,Games,"Oh wow really, that's so nice!! If you're sure you won't use it, I'd love that, ",264,pokemontrades,0.0,0.0,0.0,0.0,0.0,0.0
+57,DonnieS1,POLITIC,"LOL. Tell that to the people of Chicago, fool.",41,POLITIC,0.6,0.7,0.07317073170731707,0.17073170731707318,0.6969179698201173,1.0
+58,TheGlennDavid,IAmA,&gt; One of my biggest issues with Catholics is that they seem to not care about,159,Christianity,0.0,0.0,0.0,0.0,0.0,0.0
+59,flamingjoints,Drugs,If any of those drunk sorority girls from last night are reading this behold my ,74,Drugs,0.4,0.2,0.02702702702702703,0.02702702702702703,0.33013764944712026,1.0
+60,godbotktt,ShingekiNoKyojin,Bertholdt’s not exactly the type to take initiative or be assertive so I guess R,126,asoiaf,0.0,0.0,0.0,0.0,0.0,0.0
+61,starlogical,Games,PvP doesn't really need to be meaningful. Griefing others is a sort of catharsis,265,wow,0.0,0.0,0.0,0.0,0.0,0.0
+62,Ashen-Knight,Christianity,"My comment didn’t have anything to do with America, which is not a Christian nat",101,Christianity,1.0,0.7,0.04950495049504951,0.06930693069306931,0.8006937664098819,1.0
+63,ItsAroundYou,LifeProTips,Roaches Georg,195,,0.0,0.0,0.0,0.0,0.0,0.0
+64,ilovepumpkin,books,There's this thing called 'circle of life' and to think for one second you're no,206,explainlikeimfive,0.0,0.0,0.0,0.0,0.0,0.0
+65,AR-47,Fitness,Post in shit on me Sunday at /r/bodybuilding for a reality check and develop a h,95,Fitness,0.0,0.3,0.0,0.031578947368421054,0.21408371436984164,0.16666666666666666
+66,DustyMuffin,conspiracy,I'll say this. I've looked at the evidence because a read of the headline makes ,131,conspiracy,0.2,0.4,0.007633587786259542,0.030534351145038167,0.2934163982736371,0.2
+67,throw0901a,IAmA,"&gt; With respect, this is a completely unacceptable response to the ongoing cri",158,atheism,0.0,0.0,0.0,0.0,0.0,0.0
+68,Captainfire008,gaming,Bad sales lead to TTG firing a good majority of its people. They shutting down W,216,Games,0.0,0.0,0.0,0.0,0.0,0.0
+69,millionsofyears,Music,So how dull does not making an effort to explore music past top charts feel?,296,hiphopheads,0.0,0.0,0.0,0.0,0.0,0.0
+70,animeman59,buildapc,"Some thermal paste are electrically conductive. Arctic Silver, for example. Whic",60,,0.0,0.0,0.0,0.0,0.0,0.0
+71,elfatgato,news,A sovereign citizen wouldn't call the police. You're a big fat phony!,332,news,0.2,0.1,0.0030120481927710845,0.0030120481927710845,0.22009176629808017,1.0
+72,elan_alan,cars,Because I’m really just a cheap bastard.,149,Frugal,0.2,0.1,0.006711409395973154,0.006711409395973154,0.11004588314904008,0.3333333333333333
+73,Zierk,Music,"Thanks for the tldr, I only know MGK from Rap Devil and this sums it up quite ni",296,hiphopheads,0.0,0.0,0.0,0.0,0.0,0.0
+74,BarthVader35,gifs,"""I'm 35% Chinese"" - Bender",332,,0.0,0.0,0.0,0.0,0.0,0.0
+75,sixpointfivemm,Fitness,It matters not,95,soccer,0.0,0.0,0.0,0.0,0.0,0.0
+76,Elleden,skyrim,FUS,143,tf2,0.0,0.0,0.0,0.0,0.0,0.0
+77,BraveSirRobin,programming,"I'm not justifying it at all, quite the opposite, I'm saying that the privacy-aw",212,technology,0.0,0.0,0.0,0.0,0.0,0.0
+78,ramtacular,funny,Well they shouldn’t be using straws to do things they shouldn’t be doing then if,347,australia,0.0,0.0,0.0,0.0,0.0,0.0
+79,TheVitt,Android,You still can’t without importing it. In Europe this thing will cost you around ,225,,0.0,0.0,0.0,0.0,0.0,0.0
+80,orc0909,nfl,You mean the text of the article? Or is it forcing you to download the app?,133,apple,0.0,0.0,0.0,0.0,0.0,0.0
+81,Bigbossman123,MensRights,That's naive at best.,120,AdviceAnimals,0.0,0.0,0.0,0.0,0.0,0.0
+82,ladysekhmetka,politics,"Ah, that's right... forgot the most important part!",192,,0.0,0.0,0.0,0.0,0.0,0.0
+83,SirTinou,Fitness,So you'd rather be offended by your own failures than to look at yourself and fi,95,Fitness,0.4,0.4,0.021052631578947368,0.042105263157894736,0.3372080579682881,0.3333333333333333
+84,Codadd,offbeat,"That's what he was saying. Obviously reality isn't that way, but for police and ",178,news,0.0,0.0,0.0,0.0,0.0,0.0
+85,megablast,funny,"True. But you know what make you better, not getting to do whatever you want to ",346,AskMen,0.0,0.0,0.0,0.0,0.0,0.0
+86,healzsham,worldnews,"&gt;You're selling that item? Well, since it's technically *ours*, here's 85%.",369,,0.0,0.0,0.0,0.0,0.0,0.0
+87,starhobo,Games,"wait, didn't they say there aren't any NPCs and the like? what PVE will be there",265,wow,0.0,0.0,0.0,0.0,0.0,0.0
+88,liquidpele,pics,He certainly did’t help himself going on the rants about leftist conspiracy aime,437,POLITIC,0.0,0.0,0.0,0.0,0.0,0.0
+89,dadsfettucine,Music,With the amount of money these guys are playing with very little is left up to c,296,hockey,0.0,0.0,0.0,0.0,0.0,0.0
+90,McFeely_Smackup,motorcycles,&gt; I don't ride on the street like it's a track so I don't have a ton of pract,102,motorcycles,0.2,0.2,0.00980392156862745,0.0196078431372549,0.16421958630632802,0.25
+91,sprockethole,rupaulsdragrace,I feel like a lot of customers probably aren't aware what merch the queens get a,98,,0.0,0.0,0.0,0.0,0.0,0.0
+92,drumline17,baseball,Shit I don't think there's an argument that they're NOT top 10 at this point. Yo,129,leagueoflegends,0.0,0.0,0.0,0.0,0.0,0.0
+93,SSBM_Caligula,AskReddit,"I agree wholeheartedly, it's more the tight clothes and long hair that make me m",208,AskWomen,0.0,0.0,0.0,0.0,0.0,0.0
+94,ThisRudderlessHippy,tifu,No our spiders are pretty wimpy and usually small. I don't think it rains this m,200,,0.0,0.0,0.0,0.0,0.0,0.0
+95,el_muchacho_loco,POLITIC,"If they find evidence it’ll absolutely be real, bowl of pudding. If they don’t, ",42,atheism,0.0,0.0,0.0,0.0,0.0,0.0
+96,swabfalling,hockey,&gt; 100% man rocket I smell someone who listens to spittin chiclets,144,hiphopheads,0.0,0.0,0.0,0.0,0.0,0.0
+97,BoringGenericUser,MensRights,&gt; There are no downsides Wrong.,120,,0.0,0.0,0.0,0.0,0.0,0.0
+98,littlestminish,magicTCG,I think you might be able to. If you can respond to Damage with Reconnaissance y,115,,0.0,0.0,0.0,0.0,0.0,0.0
+99,andy_mcbeard,LifeProTips,I am Jack's Private Browser.,195,,0.0,0.0,0.0,0.0,0.0,0.0

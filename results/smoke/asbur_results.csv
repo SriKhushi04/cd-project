@@ -1,0 +1,4 @@
+query_idx,query_user,community,query_text,num_relevant_users,inferred_community,precision_at_5,precision_at_10,recall_at_5,recall_at_10,ndcg_at_10,mrr
+1,JethroLull,motorcycles,He put himself in a position to get super hurt and it happened. If he didn't des,5,motorcycles,0.6,0.5,0.6,1.0,0.8738100898801322,1.0
+3,McFeely_Smackup,motorcycles,&gt; I don't ride on the street like it's a track so I don't have a ton of pract,5,,0.0,0.1,0.0,0.2,0.09803928583135704,0.1
+4,Oranisagu,Guildwars2,PSA: just run the game normally and without giving up build templates for nothin,1,,0.0,0.0,0.0,0.0,0.0,0.0

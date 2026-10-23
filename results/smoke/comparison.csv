@@ -1,0 +1,4 @@
+query_idx,community,asbur_p5,tfidf_p5,asbur_p10,tfidf_p10,asbur_r5,tfidf_r5,asbur_r10,tfidf_r10,asbur_ndcg10,tfidf_ndcg10,asbur_mrr,tfidf_mrr
+1,motorcycles,0.6,0.0,0.5,0.0,0.6,0.0,1.0,0.0,0.8738100898801322,0.0,1.0,0.0
+3,motorcycles,0.0,0.0,0.1,0.0,0.0,0.0,0.2,0.0,0.09803928583135704,0.0,0.1,0.0
+4,Guildwars2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
